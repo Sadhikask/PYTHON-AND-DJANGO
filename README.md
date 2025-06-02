@@ -1,1 +1,1 @@
-# PYTHON-AND-DJANGO
+This repo contains Python and Django
